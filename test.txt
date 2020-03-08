@@ -1,6 +1,7 @@
 git test first commit
 git test second commit
 git test third commit
+4
 
 
 追加しました。
